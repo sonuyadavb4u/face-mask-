@@ -1,3 +1,4 @@
+Azure url:https://facemaskdetectcovid.azurewebsites.net
 **# face-mask-**
 COVID-19 pandemic caused by coronavirus is 
 constantly spreading all over the world. The affect of COVID 
@@ -14,7 +15,9 @@ masks or taking normal images of people and make custom CV
 script to add masks on them , then pre-processing the data and 
 splitting the data, testing and then implementing the model.
 The model can detect people who are wearing mask or not 
-wearing mask at an accuracy ranging 98.71-99.90 percent.
+wearing mask at an accuracy ranging 98.71-99.90 percent.                           
+
+
 **`Introduction`**
 As the COVID cases are rising day by day and even after 
 lockdown still many people roam around streets without 
